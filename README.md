@@ -1,4 +1,4 @@
-# applied_ml_p4
+# Web Scraping PGA Tour Data
 Applied ML Project 4
 
 I chose to go my own route on this assignment (not do a streamlit app or anything). I had never worked with golf data before in an ML project, and being a big golfer, I had to go for it. Something I was very curious about figuring out was web scraping. I know it is being used by many companies out there today for marketing and advertising reasons, but I wasn't sure how it worked.
